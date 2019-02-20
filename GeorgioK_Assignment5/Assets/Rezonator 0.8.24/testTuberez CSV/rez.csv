@@ -1,0 +1,3 @@
+chainID,chainState,wordList,name,color,inFilter,align,tiltSum
+1,0,{2, 5, 14, 19},Rez 1,16711680,0,1,0
+2,0,{6, 15, 20, 32},Rez 2,255,0,1,0
